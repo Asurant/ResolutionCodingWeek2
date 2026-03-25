@@ -1,1 +1,2 @@
-A simple clicker game but now with gambling mechanics. When ever you click the bush you have a chance to earn more or less money and whenever you buy an upgrade there's a 50/50 chance of you getting it. Anytime you fail to upgrade a message appears on the left of the screen.
+A simple clicker game but now with gambling mechanics. When ever you click the bush you have a chance to earn more or less money and whenever you buy an upgrade there's a 50/50 chance of you getting it. Anytime you fail to upgrade a message appears on the left of the screen.  
+<img width="1919" height="591" alt="Screenshot 2026-03-21 215002" src="https://github.com/user-attachments/assets/f28ff290-cf6f-4d41-8b3f-48769eab5c8d" />
